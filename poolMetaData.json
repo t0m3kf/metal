@@ -1,6 +1,6 @@
-{                                                                                                                         │
-"name": "Metal Pool",                                                                                                     │
-"description": "Testnet Metal Pool",                                                                                      │
-"ticker": "METAL",                                                                                                        │
-"homepage": "https://myadapoolnamerocks.com"                                                                              │
+{
+"name": "Metal Pool",
+"description": "Testnet Metal Pool",
+"ticker": "METAL",
+"homepage": "https://myadapoolnamerocks.com"
 }
